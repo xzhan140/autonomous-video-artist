@@ -59,16 +59,8 @@ On PC:
     
         $ rosrun turtlebot navigation
 
-    To run the test code for depth image with visualization:
-
-        $ rosrun turtlebot depth
-
     To run the automatic navigation with depth image (including position tracking and battery information):
 
         $ rosrun turtlebot depth_nav
-
-    To run the position track test code:
-
-        $ rosrun turtlebot position
 
 8. To stop the robot just press ctrl+c to break the process
